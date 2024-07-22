@@ -9,6 +9,7 @@ In this tutorial we will learn this.
 Do you need:
 
 > pip install -U torch tensorrt cuda-python onnx onnx_graphsurgeon
+
 > python tensorrt_python_plugin.py
 
 For more details please read the poster in medium: 
